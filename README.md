@@ -1,16 +1,29 @@
-### Hi there 👋
+### Olá,
+Seja bem vindo ao meu perfil GitHub 👋 
+Sou Gileard Teixeira, profissional dedicado a automação de processos com foco em redução de custos para Microempresas (MEs) e Empresas de Pequeno Porte (EPPs). Atualmente utilizo linguagem python e conhecimentos low code para implementar soluções com o objetivo de uma melhor utilização da mão de obra e restruturação de processo internos.
 
 <!--
 **Gil-Ti/Gil-Ti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente estou trabalhando na https://openconsultoriatributaria.com.br/
+- 👯 Estou procurando colaborar em projetos relacionados a automação de processos.
+- 📫 Como entrar em contato comigo: linkedin.com/in/gileard-teixeira
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+## Ferramentas e Tecnologias
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+          
+## Estou aprendendo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+
+## Contatos:
+
+<div>
+<a href = "mailto:gileardti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gileard-teixeira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+         
