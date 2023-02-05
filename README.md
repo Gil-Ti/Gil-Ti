@@ -29,6 +29,6 @@ Sou Gileard Teixeira, profissional dedicado a automação de processos com foco 
      
 <div>
 <a href="https://github.com/Gil-Ti">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gil-Ti&layout=compact&langs_count=7&theme=dracula"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gil-Ti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gil-Ti&layout=compact&langs_count=7&theme=dracula"/>
 </div>
          
