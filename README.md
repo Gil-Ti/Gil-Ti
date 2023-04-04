@@ -1,6 +1,13 @@
 ### Olá,
-Seja bem vindo ao meu perfil GitHub 👋 
-Sou Gileard Teixeira, profissional dedicado a automação de processos com foco em redução de custos para Microempresas (MEs) e Empresas de Pequeno Porte (EPPs). Atualmente utilizo linguagem python e conhecimentos low code para implementar soluções com o objetivo de uma melhor utilização da mão de obra e restruturação de processo internos.
+Sou Gileard Teixeira, um desenvolvedor back-end dedicado à automação de processos com foco na redução de custos e aumento da eficiência operacional. Com mais de 10 anos de experiência em ensino e coordenação de projetos, juntamente com minha formação em Pedagogia e Administração de Empresas, tenho uma visão estratégica para orientar o capital intelectual e tecnológico em empresas de diversos segmentos, desenvolvendo e implementando soluções tecnológicas eficazes.
+
+Sou especializado em linguagens de programação como Python, PHP e SQL e tenho experiência no desenvolvimento de sistemas e soluções web inovadoras. Além disso, tenho conhecimentos em computação em nuvem AWS e em bancos de dados, o que me permite implementar soluções escaláveis e seguras.
+
+Minha experiência inclui projetos de automação de processos na área contábil e tributária, além de soluções de banco de dados e computação em nuvem. Tenho uma abordagem centrada no usuário, buscando entender as necessidades específicas de cada projeto para desenvolver soluções personalizadas e eficazes.
+
+Estou sempre buscando aprender e aplicar novas tecnologias, trabalhando em equipe para alcançar objetivos comuns. Meus projetos incluem soluções de automação de processos e desenvolvimento de sistemas, e estão disponíveis em meu perfil no GitHub: https://github.com/Gil-Ti.
+
+Caso tenha interesse em colaborar em algum projeto ou tiver alguma ideia para discutirmos, sinta-se à vontade para entrar em contato por e-mail: gileardti@gmail.com.
 
 <!--
 **Gil-Ti/Gil-Ti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
