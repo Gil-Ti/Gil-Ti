@@ -1,45 +1,44 @@
-# 👋 Olá! Eu sou Gileard Teixeira
+# 👋 Hi! I'm Gileard Teixeira
 
-🎯 Gerente de TI | Product Manager | DPO  
-💻 Engenharia de Software | Construindo Produtos Digitais com Propósito  
-📍 Salvador - BA, Brasil  
+🎯 IT Manager | Product Manager | DPO  
+💻 Software Engineering | Building Purpose-Driven Digital Products  
+📍 Salvador - BA, Brazil  
 📧 gileardti@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/gileard-teixeira)
 
 ---
 
-## 🧭 Sobre mim
+## 🧭 About Me
 
-Sou um profissional multidisciplinar com sólida atuação em **tecnologia, produto e governança**.  
-Tenho formação em **Pedagogia**, **Administração de Empresas** e **pós-graduação em Engenharia de Software**.  
+I’m a multidisciplinary professional with solid experience in **technology, product, and governance**.  
+I hold degrees in **Pedagogy**, **Business Administration**, and a **postgraduate specialization in Software Engineering**.
 
-Atualmente, atuo como **Gerente de TI** e **DPO** na Open Soluções Tributárias, onde lidero o time responsável por um sistema **SaaS** voltado à área fiscal. Minha atuação vai além da liderança técnica, participo da estratégia de produto, priorização de backlog, discovery, integração entre áreas e decisões com foco em valor para o cliente.
+Currently, I work as **IT Manager** and **DPO** at Open Soluções Tributárias, where I lead the team responsible for a **SaaS** system focused on the tax sector. My role goes beyond technical leadership — I actively contribute to product strategy, backlog prioritization, discovery, cross-functional integration, and decision-making focused on customer value.
 
-📌 Em formação na **PM3**, desenvolvo uma visão estratégica de produto com foco em discovery, métricas, agilidade e impacto.
+📌 I'm currently studying at **PM3**, developing a strategic product vision with an emphasis on discovery, metrics, agility, and business impact.
 
 ---
 
-## ⚙️ Principais competências
+## ⚙️ Core Skills
 
 - `C#`, `.NET Core`, `Python`
 - `MySQL`, `SQL Server`, `Power BI`
 - `Docker`, `Swagger`, `JWT`, `AWS`, `GitHub`
-- `Planejamento de Projetos (PMBOK)`, `Scrum`, `Jira`, `Zephyr Scale`
-- `Gestão de Produto`, `Discovery`, `Roadmap`, `Métricas`, `Stakeholders`
-- `LGPD`, `Segurança da Informação`, `Governança de Dados (DPO)`
-- 
----
-
-## 📚 Atualmente estudando
-
-- Estratégia e maturidade de produto digital (PM3)
-- Arquitetura escalável com foco em SaaS
-- Comunicação para lideranças técnicas
-- Inglês profissional para atuação internacional
+- `Project Planning (PMBOK)`, `Scrum`, `Jira`, `Zephyr Scale`
+- `Product Management`, `Discovery`, `Roadmapping`, `Metrics`, `Stakeholders`
+- `LGPD`, `Information Security`, `Data Governance (DPO)`
 
 ---
 
-## 🤝 Vamos conversar?
+## 📚 Currently Learning
 
-Se você também acredita no poder do alinhamento entre **tecnologia, negócio e experiência do usuário**, será um prazer trocar ideias!  
-📩 [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/gileard-teixeira)
+- Product strategy and maturity (PM3)
+- Scalable architecture for SaaS
+- Communication for technical leadership
+- Business English for global collaboration
 
+---
+
+## 🤝 Let's connect!
+
+If you also believe in the power of aligning **technology, business, and user experience**, I’d love to exchange ideas!  
+📩 [Connect with me on LinkedIn](https://www.linkedin.com/in/gileard-teixeira)
