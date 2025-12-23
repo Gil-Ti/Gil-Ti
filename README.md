@@ -1,44 +1,59 @@
-# 👋 Hi! I'm Gileard Teixeira
+# 👋 Hi, I'm Gileard Teixeira
 
-🎯 IT Manager | Product Manager | DPO  
-💻 Software Engineering | Building Purpose-Driven Digital Products  
+### 🚀 IT Manager & Product Leader | TaxTech Specialist
+**Bridging the gap between Complex Tax Compliance and Scalable SaaS Products.**
+
 📍 Salvador - BA, Brazil  
 📧 gileardti@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/gileard-teixeira)
 
 ---
 
-## 🧭 About Me
+## 🧭 Strategic Vision
 
-I’m a multidisciplinary professional with solid experience in **technology, product, and governance**.  
-I hold degrees in **Pedagogy**, **Business Administration**, and a **postgraduate specialization in Software Engineering**.
+I am a multidisciplinary leader sitting at the intersection of **Technology, Business, and Governance**. With a unique background spanning **Pedagogy, Business Administration, and Software Engineering**, I translate complex regulatory requirements into fluid, user-centric digital experiences.
 
-Currently, I work as **IT Manager** and **DPO** at Open Soluções Tributárias, where I lead the team responsible for a **SaaS** system focused on the tax sector. My role goes beyond technical leadership — I actively contribute to product strategy, backlog prioritization, discovery, cross-functional integration, and decision-making focused on customer value.
+Currently, as **IT Manager & DPO at Open Soluções Tributárias**, I lead the development of B2B SaaS solutions that navigate the intricate Brazilian tax landscape. My focus is not just on shipping code, but on delivering **compliant, secure, and high-value products** that solve real pains for tax and accounting departments.
 
-📌 I'm currently studying at **PM3**, developing a strategic product vision with an emphasis on discovery, metrics, agility, and business impact.
-
----
-
-## ⚙️ Core Skills
-
-- `C#`, `.NET Core`, `Python`
-- `MySQL`, `SQL Server`, `Power BI`
-- `Docker`, `Swagger`, `JWT`, `AWS`, `GitHub`
-- `Project Planning (PMBOK)`, `Scrum`, `Jira`, `Zephyr Scale`
-- `Product Management`, `Discovery`, `Roadmapping`, `Metrics`, `Stakeholders`
-- `LGPD`, `Information Security`, `Data Governance (DPO)`
+> *"My goal is to abstract bureaucracy through technology, ensuring that compliance is a seamless feature, not a hurdle."*
 
 ---
 
-## 📚 Currently Learning
+## 🧠 The "TaxTech" Skill Set
 
-- Product strategy and maturity (PM3)
-- Scalable architecture for SaaS
-- Communication for technical leadership
-- Business English for global collaboration
+My expertise is tailored for high-stakes environments where precision and data privacy are non-negotiable.
+
+### 🛠️ Technical Leadership & Architecture
+* **Core:** `.NET Core`, `C#`, `Python` (Focus on Scalable Back-end)
+* **Data & Analytics:** `SQL Server`, `MySQL`, `Power BI` (Handling High Volume Tax Data)
+* **Infra & DevOps:** `AWS`, `Docker`, `GitHub Actions`
+* **API Strategy:** `Swagger`, `REST`, ERP Integrations
+
+### 🎯 Product Strategy (PM3)
+* **Discovery:** Transitioning from "Feature Factory" to value-driven development.
+* **Roadmapping:** Balancing regulatory deadlines (SPED, Reinf) with innovation.
+* **Metrics:** KPIs, Churn Reduction, and Business Impact analysis.
+* **Tools:** `Jira`, `Zephyr Scale`, `Miro`.
+
+### 🛡️ Governance & Compliance (DPO)
+* **LGPD/GDPR:** Implementation of Privacy by Design.
+* **InfoSec:** JWT, Secure Coding standards.
+* **Tax Knowledge:** Understanding of Brazilian Fiscal SPED ecosystem.
 
 ---
 
-## 🤝 Let's connect!
+## 📈 Current Focus
 
-If you also believe in the power of aligning **technology, business, and user experience**, I’d love to exchange ideas!  
-📩 [Connect with me on LinkedIn](https://www.linkedin.com/in/gileard-teixeira)
+I am deeply invested in elevating the maturity of product teams. Currently refining my skills at **PM3**, focusing on:
+1.  **Continuous Discovery** in B2B markets.
+2.  **SaaS Unit Economics** (LTV, CAC, Churn) applied to TaxTech.
+3.  **Cross-functional Leadership:** Aligning Dev, Sales, and Customer Success.
+
+---
+
+## 🤝 Let's Connect
+
+I am always open to discussing **Product Operations, TaxTech Innovation, and Data Privacy Strategy**.
+
+If you are looking for a partner who speaks both "Dev" and "Business," let's chat.
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gileard-teixeira)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gileardti)
